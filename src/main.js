@@ -1,6 +1,6 @@
 const http = require("http");
 var config = {
-  PORT: 81
+  PORT: 80
 };
 
 const server = http.createServer((req,res) => {
