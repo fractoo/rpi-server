@@ -2,6 +2,7 @@ const http = require("http");
 var config = {
   PORT: 80
 };
+console.log("starting...");
 
 const server = http.createServer();
 
