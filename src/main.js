@@ -4,6 +4,6 @@ var config = {
 };
 
 const server = http.createServer((req,res) => {
-  res.write("hello world");
+  res.write("hello from the other pi(de)");
   res.end();
 }).listen(config.PORT);
