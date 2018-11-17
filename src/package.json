@@ -1,12 +1,12 @@
 {
   "name": "rpi-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "web server for raspberry pi",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["rpi", "web", "server"],
   "author": "",
   "license": "ISC"
 }
